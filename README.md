@@ -26,3 +26,4 @@ Identify high-performing products and underperforming categories.
 Evaluate which regions contribute most to overall revenue.
 Determine how discounts impact profitability and sales volume.
 Provide actionable recommendations to optimize sales strategies.[Addidas.zip](https://github.com/user-attachments/files/19397119/Addidas.zip)
+![image](https://github.com/user-attachments/assets/9a799300-9675-427b-8b25-ba0dea6da568)
