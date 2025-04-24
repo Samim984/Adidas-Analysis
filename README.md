@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/9a799300-9675-427b-8b25-ba0dea6da568)
 🏷️ Adidas Sales Analysis Dashboard
 This project presents a comprehensive analysis of Adidas sales data using Power BI to extract actionable insights and enhance decision-making. The dashboard provides a clear view of key performance indicators (KPIs) such as total sales, revenue, and profit, while uncovering trends and patterns that drive business growth. By visualizing sales data across regions and product categories, the analysis helps stakeholders make informed business decisions.
 
@@ -26,4 +27,4 @@ Identify high-performing products and underperforming categories.
 Evaluate which regions contribute most to overall revenue.
 Determine how discounts impact profitability and sales volume.
 Provide actionable recommendations to optimize sales strategies.[Addidas.zip](https://github.com/user-attachments/files/19397119/Addidas.zip)
-![image](https://github.com/user-attachments/assets/9a799300-9675-427b-8b25-ba0dea6da568)
+
